@@ -1,0 +1,19 @@
+{
+  "name": "successful-operation",
+  "version": "1.0.4",
+  "description": "A UI element that can be used to indicate that the operation was successful.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vajahath/successful-operation.git"
+  },
+  "keywords": [
+    "web-components",
+    "polymer"
+  ],
+  "author": "twitter.com/vajahath7",
+  "license": "ISC"
+}
