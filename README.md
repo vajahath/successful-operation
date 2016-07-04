@@ -109,7 +109,7 @@ Attributes      | Type        | Default value           | Description
 
 ## Questions ?
 
-Feel free to ping me on Skype at `vajuinside`.
+Found any bugs? File an issue on [Github](https://github.com/vajahath/successful-operation/issues).
 
 visit my [profile](https://www.npmjs.com/~vaju) to see other elements.
 
@@ -117,6 +117,10 @@ bye..
 
 
 ## Change Log
+*1.0.4*
+* Anonymous documentation update.
+* Connected to Git Repo.
+
 *1.0.3*
 * Anonymous documentation update.
 
