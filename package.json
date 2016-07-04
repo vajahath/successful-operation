@@ -1,6 +1,6 @@
 {
   "name": "successful-operation",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A UI element that can be used to indicate that the operation was successful.",
   "main": " ",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vajahath/successful-operation.git"
+    "url": "git+https://github.com/vajahath/successful-operation.git"
   },
   "keywords": [
     "web-components",

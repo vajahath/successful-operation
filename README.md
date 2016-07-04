@@ -117,6 +117,10 @@ bye..
 
 
 ## Change Log
+*1.0.5*
+* Anonymous documentation update.
+* Config.ing github.
+
 *1.0.4*
 * Anonymous documentation update.
 * Connected to Git Repo.
