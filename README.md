@@ -1,4 +1,6 @@
 # successful-operation polymer custom element
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vajahath/successful-operation.svg)](https://greenkeeper.io/)
 A UI element that can be used to indicate that the operation was successful.
 
 ![demo](https://lh3.googleusercontent.com/0zg3RagahMb1JcUyAbwl1sb2aPWOSZ6dUFD_QAcQ53O5OHwmTmik8OZiBCyz01vI0i8qoTgXiOYyYw=w694-h245-no "<successful-operation> element")
